@@ -1,2 +1,1 @@
-# MiSegundoRepositorio
-Este es un segundo intento de crear mi repositorio 
+Oriana Castillo. Esta es mi segunda prueba de crear un repositorio
